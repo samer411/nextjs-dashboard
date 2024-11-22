@@ -121,6 +121,9 @@ import {headers} from 'next/headers';
 //     return Response.json({ error }, { status: 500 });
 //   }
 // }
+// **************************************************************************
+// the tutorial uses postegress which is not found directly in vercel website 
+// so we used another code to connect to neon.
 const sql = neon(process.env.DATABASE_URL!);
 
 async function seedUsers() {
