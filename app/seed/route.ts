@@ -2,7 +2,6 @@ import bcrypt from 'bcrypt';
 // import { db } from '@vercel/postgres';
 import {neon} from '@neondatabase/serverless'
 import { invoices, customers, revenue, users } from '../lib/placeholder-data';
-import {headers} from 'next/headers';
 // const client = await db.connect();
 
 // async function seedUsers() {
