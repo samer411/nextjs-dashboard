@@ -1,6 +1,6 @@
 # Financial Dashboard Application 🚀
 
-This project is a simplified version of a financial dashboard application built with **Next.js**. It demonstrates essential full-stack development concepts, including authentication, database integration, and data management. By completing this course, you'll acquire the skills needed to start building robust Next.js applications.
+This project is a simplified version of a financial dashboard application built with **Next.js**. It demonstrates essential full-stack development concepts, including authentication, database integration, and data management.
 
 ## 🌟 Features
 
